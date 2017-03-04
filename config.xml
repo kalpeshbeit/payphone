@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.eshop.app"
         version   = "1.0.1" 
-        android-versionCode="2"
+        android-versionCode="10"
         ios-CFBundleVersion="1.0.0"
 >
     <name>EShop</name>
