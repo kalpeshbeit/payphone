@@ -38,6 +38,8 @@
 	<feature name="File">
         <param name="android-package" value="org.apache.cordova.file.FileUtils" />
     </feature>
+	<preference name="android-minSdkVersion" value="10" />
+
     <plugin name="cordova-plugin-device"   />
     <plugin name="cordova-plugin-geolocation"   />
 		<gap:plugin name="com.paypal.cordova.mobilesdk" source="npm" />
